@@ -1,5 +1,7 @@
 # LearnBot
-`we'll put some dope images here`
+
+![learnbot in action](https://user-images.githubusercontent.com/38544672/107946400-47c58480-6f91-11eb-894c-2f632965cc1f.PNG)
+![correct course page](https://user-images.githubusercontent.com/38544672/107946374-3f6d4980-6f91-11eb-800a-579917888060.png)
 
 ## Elevator Pitch 
 Personalised AI based Chatbot as Studying Partner. For every self learner, every time, everywhere. 
